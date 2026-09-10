@@ -6,6 +6,15 @@
 * La moyenne est obtenue en calculant la somme des notes enregistrées puis en la divisant par le nombre de notes.
 * La méthode `afficherNotes()` permet d'afficher les notes, tandis que `toString()` présente les principales informations de l'étudiant.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+
+
 # Exercice 2 - Association Étudiant / Filière
 
 * Dans cet exercice, on utilise deux classes : `Etudiant` et `Filiere`.
@@ -14,6 +23,14 @@
 * Lorsqu'un étudiant est ajouté à une filière, son objet est enregistré dans le tableau de la filière et sa référence vers la filière est également mise à jour.
 * Cette association permet donc de naviguer dans les deux sens : connaître la filière d'un étudiant ou retrouver les étudiants appartenant à une filière.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+
 # Exercice 3 - Gestion des articles (Catégorie / Article)
 
 * Cet exercice présente la gestion de produits à travers deux classes : `Categorie` et `Article`.
@@ -21,6 +38,13 @@
 * Chaque article possède ses propres informations ainsi qu'une référence vers la catégorie à laquelle il est associé.
 * La catégorie ne contient pas directement un tableau d'articles. Pour afficher les articles d'une catégorie, le programme parcourt les différents articles et vérifie leur catégorie.
 * Cette organisation permet de regrouper les articles par catégorie lors de l'affichage.
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
 
 # Exercice 4 - Gestion d'Auteurs, Livres et Bibliothèques
 
@@ -30,3 +54,10 @@
 * Une bibliothèque peut contenir plusieurs livres et un même livre peut être présent dans plusieurs bibliothèques.
 * Pour éviter qu'un livre soit ajouté plusieurs fois dans la même bibliothèque, on utilise un ensemble qui ne conserve qu'une seule occurrence de chaque livre.
 * Les différentes classes utilisent également des identifiants automatiques afin de distinguer les objets créés.
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
