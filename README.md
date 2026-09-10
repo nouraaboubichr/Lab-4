@@ -44,13 +44,15 @@
 * Chaque article possède ses propres informations ainsi qu'une référence vers la catégorie à laquelle il est associé.
 * La catégorie ne contient pas directement un tableau d'articles. Pour afficher les articles d'une catégorie, le programme parcourt les différents articles et vérifie leur catégorie.
 * Cette organisation permet de regrouper les articles par catégorie lors de l'affichage.
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 001355.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 001411.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 001430.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 001437.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 001456.png" />
 
 # Exercice 4 - Gestion d'Auteurs, Livres et Bibliothèques
 
