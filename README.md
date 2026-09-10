@@ -6,13 +6,15 @@
 * La moyenne est obtenue en calculant la somme des notes enregistrées puis en la divisant par le nombre de notes.
 * La méthode `afficherNotes()` permet d'afficher les notes, tandis que `toString()` présente les principales informations de l'étudiant.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 235051.png" />
 
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
 
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 235140.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 235157.png" />
 
 
 # Exercice 2 - Association Étudiant / Filière
