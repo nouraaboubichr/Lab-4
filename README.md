@@ -62,10 +62,12 @@
 * Une bibliothèque peut contenir plusieurs livres et un même livre peut être présent dans plusieurs bibliothèques.
 * Pour éviter qu'un livre soit ajouté plusieurs fois dans la même bibliothèque, on utilise un ensemble qui ne conserve qu'une seule occurrence de chaque livre.
 * Les différentes classes utilisent également des identifiants automatiques afin de distinguer les objets créés.
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 001921.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 001943.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 002000.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 002011.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 002021.png" />
