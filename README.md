@@ -25,13 +25,17 @@
 * Lorsqu'un étudiant est ajouté à une filière, son objet est enregistré dans le tableau de la filière et sa référence vers la filière est également mise à jour.
 * Cette association permet donc de naviguer dans les deux sens : connaître la filière d'un étudiant ou retrouver les étudiants appartenant à une filière.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 000624.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 000637.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 000649.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 000705.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 000713.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 000925.png" />
 
 # Exercice 3 - Gestion des articles (Catégorie / Article)
 
